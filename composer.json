@@ -1,7 +1,7 @@
 {
     "name": "eyecatchup/composer-test",
     "require": {
-        "eyecatchup/composer-test-2": "dev-master"
+        "eyecatchup/composer-test-2": "1.0.*@dev"
     },
     "repositories": [
         {
