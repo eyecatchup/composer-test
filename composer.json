@@ -2,7 +2,7 @@
     "name": "eyecatchup/composer-test",
     "minimum-stability": "dev",
     "require": {
-        "eyecatchup/composer-test-2": "1.0.0"
+        "eyecatchup/composer-test-2": "1.0.*@dev
     },
     "repositories": [
         {
