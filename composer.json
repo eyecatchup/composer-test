@@ -1,0 +1,12 @@
+{
+    "name": "eyecatchup/composer-test",
+    "require": {
+        "eyecatchup/composer-test-2": "dev-feature/composer"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/eyecatchup/composer-test-2.git"
+        }
+    ]
+}
