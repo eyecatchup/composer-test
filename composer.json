@@ -2,20 +2,12 @@
     "name": "eyecatchup/composer-test",
     "minimum-stability": "dev",
     "require": {
-        "eyecatchup/composer-test-2": "dev-feature/composer"
+        "eyecatchup/composer-test-2": "1.0.*@dev"
     },
     "repositories": [
         {
-            "type": "package",
-            "package": {
-                "name": "eyecatchup/composer-test-2",
-                "version": "dev-feature/composer",
-                "source": {
-                    "url": "https://github.com/eyecatchup/composer-test-2.git",
-                    "type": "git",
-                    "reference": "b377bc41947ad4963db508543d8dc3ad85110694"
-                }
-            }
+            "type": "git",
+            "url": "https://github.com/eyecatchup/composer-test-2.git"
         }
-    ]    
+    ]   
 }
